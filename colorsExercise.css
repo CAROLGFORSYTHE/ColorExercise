@@ -1,0 +1,38 @@
+/* Color Name */
+h1 {
+    color: red;
+    background-color:blue ;
+}
+h2 {
+color: #01f23f;
+background-color: #ffa500 ;
+}
+h3 {
+color: #01b;
+background-color: #909;
+}
+h4 {
+color:#557688bb ;
+background-color:#00ff0055 ;
+}
+h5 {
+color: #01b5; 
+background-color:#98f8 ;
+}
+h6 {
+color: rgb(193, 03, 15);
+background-color: rgb(03, 200, 90);
+}
+p {
+ color: rgba(193, 03, 15, 9);
+ background-color: rgba(03, 15, 250, 1) ;
+}
+.one {
+    color: hotpink;
+}
+.three {
+    background-color: peachpuff;
+}
+.one, .three {
+    border: 5px solid green;
+}
